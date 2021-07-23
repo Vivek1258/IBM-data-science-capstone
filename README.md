@@ -188,7 +188,7 @@ In this project, we only considered one factor that is the frequency of occurren
 This project uses the free stand box trial account of four square API that comes with limitations as to the number of API calls and result returned. one could make use of the paid accounts to bypass this limitation.
 
 
-## Conclusion
+## Conclusion :
 
 In this project, we have gone through the process of identifying the business problem, specifying the data required, extracting and preparing the data, performing machine learning by clustering the data into 2 classes based on their similarities, and lastly providing recommendations to relevant stakeholders.
 
