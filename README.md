@@ -20,8 +20,7 @@
 - [Discussions](#Discussions)
 - [Limitations](#Limitations)
 - [Conclusion](#Conclusion)
-- [IBM Applied Data Science Specialization Certificate](#IBM) 
-- [Reference](#Reference)
+- [IBM Applied Data Science Specialization Certificate](#IBM-Applied-Data-Science-Specialization-Certificate) 
 
 ## Overview 
 
@@ -171,7 +170,7 @@ cluster 1 in blue color and a 3D plot showing cluster visualization.
 
 ###  clusters
 
-![image](https://user-images.githubusercontent.com/53163419/126811144-1c32e65d-7986-4649-bdeb-da7bdfd189c6.png)
+![image](https://user-images.githubusercontent.com/53163419/126812254-c81c01f5-361f-43df-ae50-f62bcd53aad6.png)
 
 
 ## Documentation : 
